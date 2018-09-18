@@ -1,6 +1,5 @@
 <?php
       include("includes/database.php");
-      // include("includes/database_golfballs.php");
 
       // For assignment 4.0 etc
       include_once "includes/sellable-interface.php";
